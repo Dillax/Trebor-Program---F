@@ -11,6 +11,7 @@
 
 .cabeçalho-lista {
     color: white;
+display: inline-block;
     font-size: 24px;
 }
 
