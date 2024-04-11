@@ -3,6 +3,7 @@
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
+    align-items: center;
     }
 
 .cabeçalho-título {
@@ -12,7 +13,8 @@
 .cabeçalho-lista {
     color: white;
 display: inline-block;
-    font-size: 24px;
+margin: 16% 0%;
+    font-size: 16px;
 }
 
 .cabeçalho-imagem {
