@@ -1,5 +1,6 @@
 .cabeçalho {
     background-color: #5F0F40;
+    font-display: flex;
     }
 
 .cabeçalho-título {
@@ -11,7 +12,7 @@
 }
 
 .cabeçalho-imagem {
-    width: 10%;
+    width: 20%;
 }.cabeçalho {
     background-color: #5F0F40;
     }
@@ -25,5 +26,5 @@
 }
 
 .cabeçalho-imagem {
-    width: 10%;
+    width: 20%;
 }
