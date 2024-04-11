@@ -1,4 +1,19 @@
-.cabeçalho{
-    background-color: #1087a8;
-    .cabeçalho-titulo{ color: rgba(235, 224, 224, 0);}
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola de Robótica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabeçalho" >
+        <img class="cabeçalho-imagem" src="robot 1.png" alt="robô em pé">
+        <h1 class="cabeçalho-título">Escola de Robótica</h1>
+        <ul class="cabeçalho-lista">
+            <li class="cabeçalho-lista-item1">Escola</li>
+            <li class="cabeçalho-lista-item2">Equipe de Professores</li>
+        </ul>
+    </header>
+</body>
+</html>
