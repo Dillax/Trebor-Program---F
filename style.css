@@ -2,7 +2,7 @@
     background-color: #2D8283;
     display: flex;
     padding: 24px 0;
-    justify-content: center;
+    justify-content: space-around;
     }
 
 .cabeçalho-título {
