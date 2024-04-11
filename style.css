@@ -14,19 +14,8 @@
 }
 
 .cabeçalho-imagem {
-    width: 10%;
+    width: 15%;
+    justify-content: right;
 }.cabeçalho {
     background-color: #5F0F40;
     }
-
-.cabeçalho-título {
-    color: #FA725A;
-}
-
-.cabeçalho-lista {
-    color: white;
-}
-
-.cabeçalho-imagem {
-    width: 10%;
-}
