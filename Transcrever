@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização de Gist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conteúdo do Gist Incorporado</h1>
+    <script src="https://gist.github.com/Dillax/df5fe4e823f0e8ee0884e05fed555224.js"></script>
+</body>
+</html>
